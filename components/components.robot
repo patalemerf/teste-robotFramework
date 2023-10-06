@@ -7,7 +7,7 @@ ${CAMPO_SENHA}               password
 ${BOTAO_LOGIN}               IconLoginButton
 ${NOME_USUARIO}              usuario_invalido@email.com
 ${SENHA_USUARIO}             123456
-${MENSAGEM_ERRO}             xpath=//p[contains(text(),'E-mail, CPF, CNPJ ou senha incorretos')]    timeout=5
+${MENSAGEM_ERRO}             xpath=//p[contains(text(),'E-mail, CPF, CNPJ ou senha incorretos')]
 
 #Variáveis para página de pesquisa
 ${BARRA_PESQUISA}            input-busca
